@@ -11,7 +11,7 @@ author:
     address: |
       | Department of Statistics
       | Bloomington, IN USA
-  - name: Anibal Solón Heinsfeld
+  - name: Anibal Sólon Heinsfeld
     orcid: 0000-0002-2050-0614
     affiliation: 'The University of Texas at Austin \AND'
     address: |
